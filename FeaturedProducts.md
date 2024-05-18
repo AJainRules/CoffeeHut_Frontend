@@ -1,3 +1,4 @@
 - Espresso
 - Latte
 - Cappuccino
+- New Discount: 10% off for Coffeehut_Wallet users
